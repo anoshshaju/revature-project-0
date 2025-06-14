@@ -1,4 +1,4 @@
-"""project:0 - Topic: Car dealership management using python & mongoDB """
+"""Project: Vehicle Purchase Management System """
 import datetime
 import pymongo
 client = pymongo.MongoClient('mongodb://127.0.0.1:27017/')
