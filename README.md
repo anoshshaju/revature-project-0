@@ -1,2 +1,4 @@
-# revature-project-0
-Car dealership management system using python and mongoDB
+# Project
+Vehicle Purchase Management System
+
+Technologies: Python, MongoDB
